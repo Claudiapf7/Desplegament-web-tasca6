@@ -15,7 +15,7 @@ Aquesta és una petita aplicació web feta amb PHP. És una pàgina web senzilla
 ## Construit amb
 
 * [NetBeans](https://netbeans.apache.org/front/main/index.html) - IDE per editar el programa
-* [PhPDocumentator](https://phpdoc.org/) - Generador de documentació PHP
+* [PhPDocumentor](https://phpdoc.org/) - Generador de documentació PHP
 * [XAMPP](https://www.apachefriends.org/download.html) - Servidor PHP i mySQL
 
 ## Autors
