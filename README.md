@@ -20,4 +20,4 @@ Aquesta és una petita aplicació web feta amb PHP. És una pàgina web senzilla
 
 ## Autors
 
-* **Clàudia Pol** - Aquest projecte és una bifuració del projecte de - **Carles Canals** (https://github.com/PurpleBoot](https://github.com/CarlesCanals/Desplegament-web)
+* **Clàudia Pol** - Aquest projecte és una bifuració del projecte de - **Carles Canals** (https://github.com/CarlesCanals/Desplegament-web)
